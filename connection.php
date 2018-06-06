@@ -1,6 +1,6 @@
 <?php
 
-$link = mysqli_connect("shareddb-i.hosting.stackcp.net", "secretdi-333501dc", "0h2jyplr8e", "secretdi-333501dc");
+$link = mysqli_connect("", "", "", "");
         
         if (mysqli_connect_error()) {
             
